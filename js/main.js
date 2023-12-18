@@ -20,4 +20,22 @@ console.log(myArrays[myArrays.length - 1]);
 console.log(myArrays[1]);
  */
 
+/* // to add to an array
 myArrays.push("school");
+console.log(myArrays);
+
+//removing from an array (last-item)
+myArrays.pop();
+console.log(myArrays);
+
+//adding to an array (first-item)
+myArrays.unshift("Mlo's");
+console.log(myArrays);
+
+//removing form an array (first-item)
+myArrays.shift();
+console.log(myArrays);
+
+console.log(myArrays[1]); */
+
+delete myArrays[1];
