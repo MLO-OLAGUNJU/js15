@@ -38,7 +38,9 @@ console.log(myArrays);
 
 console.log(myArrays[1]); */
 
-myArrays.splice(1, 1, 43);
+/* myArrays.splice(1, 1, 43);
 
 // delete myArrays[1];
-console.log(myArrays);
+console.log(myArrays); */
+
+const myArrays = ["a", "B"];
