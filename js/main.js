@@ -39,3 +39,4 @@ console.log(myArrays);
 console.log(myArrays[1]); */
 
 delete myArrays[1];
+console.log(myArrays);
