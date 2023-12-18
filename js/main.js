@@ -8,7 +8,7 @@ myArrays[0] = "Manny";
 myArrays[1] = 1001;
 myArrays[2] = false;
 
-// refer to an array
+/* // refer to an array
 console.log(myArrays);
 
 //lenght property
@@ -16,3 +16,8 @@ console.log(myArrays.length);
 
 //last element in a array
 console.log(myArrays[myArrays.length - 1]);
+
+console.log(myArrays[1]);
+ */
+
+myArrays.push("school");
