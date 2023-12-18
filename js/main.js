@@ -1,12 +1,12 @@
 // Arrays
 //==========Array is a data structure in Javascript
 
-const myArrays = [];
+/* const myArrays = [];
 
 //add elements to an array
 myArrays[0] = "Manny";
 myArrays[1] = 1001;
-myArrays[2] = false;
+myArrays[2] = false; */
 
 /* // refer to an array
 console.log(myArrays);
@@ -43,4 +43,6 @@ console.log(myArrays[1]); */
 // delete myArrays[1];
 console.log(myArrays); */
 
-const myArrays = ["a", "B"];
+const myArrays = ["A", "B", "C", "D", "E", "F"];
+
+Arrays;
