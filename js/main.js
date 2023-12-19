@@ -58,9 +58,13 @@ console.log(newString); */ //creates new string and separates the element of an 
 const myArraysA = ["A", "B", "C"];
 const myArraysB = ["D", "E", "F"];
 
-const newArray = myArraysA.concat(myArraysB);
+// const newArray = myArraysB.concat(myArraysA);
 
-console.log(newArray);
+//or
+
+const newArray = [...myArraysA, ...myArraysB];
+
+console.log(newArray); // joins two array to become one... wedding
 
 /* if (newArray == myArrays) {
   console.log("They are the same");
