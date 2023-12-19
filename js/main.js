@@ -55,8 +55,15 @@ console.log(myArrays); */ //reverses the order of an array
 console.log(typeof newString);
 console.log(newString); */ //creates new string and separates the element of an array with comma
 
-const newString = myArrays.join();
+const myArraysA = ["A", "B", "C"];
+const myArraysB = ["D", "E", "F"];
 
-const newArray = newString.split(",");
+const newArray = myArraysA.concat(myArraysB);
 
 console.log(newArray);
+
+/* if (newArray == myArrays) {
+  console.log("They are the same");
+} else {
+  console.log("nahhhhhhhh");
+} */
