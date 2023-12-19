@@ -48,5 +48,8 @@ const myArrays = ["A", "B", "C", "D", "E", "F"];
 /* const newArray = myArrays.slice(2, 5);
 console.log(newArray); */
 
-myArrays.reverse();
-console.log(myArrays);
+/* myArrays.reverse();
+console.log(myArrays); */
+
+const newString = myArrays.join();
+console.log(newString);
