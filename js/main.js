@@ -52,4 +52,11 @@ console.log(newArray); */ // cuts from 2 to 5
 console.log(myArrays); */ //reverses the order of an array
 
 /* const newString = myArrays.join();
-console.log(newString); */ //separates the element of an array with comma
+console.log(typeof newString);
+console.log(newString); */ //creates new string and separates the element of an array with comma
+
+const newString = myArrays.join();
+
+const newArray = newString.split(",");
+
+console.log(newArray);
