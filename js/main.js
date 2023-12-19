@@ -46,10 +46,10 @@ console.log(myArrays); */
 const myArrays = ["A", "B", "C", "D", "E", "F"];
 
 /* const newArray = myArrays.slice(2, 5);
-console.log(newArray); */
+console.log(newArray); */ // cuts from 2 to 5
 
 /* myArrays.reverse();
-console.log(myArrays); */
+console.log(myArrays); */ //reverses the order of an array
 
-const newString = myArrays.join();
-console.log(newString);
+/* const newString = myArrays.join();
+console.log(newString); */ //separates the element of an array with comma
