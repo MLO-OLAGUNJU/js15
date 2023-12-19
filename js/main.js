@@ -45,5 +45,8 @@ console.log(myArrays); */
 
 const myArrays = ["A", "B", "C", "D", "E", "F"];
 
-const newArray = myArrays.slice(2, 5);
-console.log(newArray);
+/* const newArray = myArrays.slice(2, 5);
+console.log(newArray); */
+
+myArrays.reverse();
+console.log(myArrays);
