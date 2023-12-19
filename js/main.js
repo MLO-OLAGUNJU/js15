@@ -73,7 +73,6 @@ console.log(newArray); */ // joins two array to become one... wedding
 } */
 
 //nesting arrays
-//nest arrays in a nested array
 
 const equipShelfA = ["baseball", "football", "volleyball"];
 const equipShelfB = ["basketball", "golf balls", "tennis balls"];
@@ -91,3 +90,7 @@ const clothesDept = [clothesShelfA, clothesShelfB];
 
 console.log(equipDept[0][1]);
 console.log(clothesDept[1][2]);
+
+//nest arrays in a nested array...... evian deying inside anothe evian
+//nesting the nested
+const sportsStore = [equipDept, clothesDept];
