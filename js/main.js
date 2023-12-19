@@ -79,3 +79,4 @@ const equipShelfA = ["baseball", "football", "volleyball"];
 const equipShelfB = ["basketball", "golf balls", "tennis ball"];
 
 const clothesShelfA = ["tank tops", "t-shirts", "jerseys"];
+const clothesShelfB = ["sweat tops", "t-sweat pants", "hoodies"];
