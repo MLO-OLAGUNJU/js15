@@ -77,3 +77,5 @@ console.log(newArray); */ // joins two array to become one... wedding
 
 const equipShelfA = ["baseball", "football", "volleyball"];
 const equipShelfB = ["basketball", "golf balls", "tennis ball"];
+
+const
