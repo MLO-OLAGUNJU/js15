@@ -71,3 +71,9 @@ console.log(newArray); */ // joins two array to become one... wedding
 } else {
   console.log("nahhhhhhhh");
 } */
+
+//nesting arrays
+//nest arrays in a nested array
+
+const equipShelfA = ["baseball", "football", "volleyball"];
+const equipShelfB = ["basketball", "golf balls", "tennis ball"];
