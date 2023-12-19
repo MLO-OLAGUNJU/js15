@@ -89,5 +89,5 @@ console.log(clothesShelfB[0]);
 const equipDept = [equipShelfA, equipShelfB];
 const clothesDept = [clothesShelfA, clothesShelfB];
 
-console.log(equipDept[0]);
-console.log(clothesDept);
+console.log(equipDept[0][1]);
+console.log(clothesDept[1][2]);
