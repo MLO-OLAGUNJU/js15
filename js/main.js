@@ -45,4 +45,5 @@ console.log(myArrays); */
 
 const myArrays = ["A", "B", "C", "D", "E", "F"];
 
-Arrays;
+const newArray = myArrays.slice(2);
+console.log(newArray);
