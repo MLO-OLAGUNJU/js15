@@ -76,7 +76,18 @@ console.log(newArray); */ // joins two array to become one... wedding
 //nest arrays in a nested array
 
 const equipShelfA = ["baseball", "football", "volleyball"];
-const equipShelfB = ["basketball", "golf balls", "tennis ball"];
+const equipShelfB = ["basketball", "golf balls", "tennis balls"];
 
 const clothesShelfA = ["tank tops", "t-shirts", "jerseys"];
 const clothesShelfB = ["sweat tops", "t-sweat pants", "hoodies"];
+
+console.log(equipShelfA[1]);
+
+// or
+console.log(clothesShelfB[0]);
+
+const equipDept = [equipShelfA, equipShelfB];
+const clothesDept = [clothesShelfA, clothesShelfB];
+
+console.log(equipDept[0]);
+console.log(clothesDept);
