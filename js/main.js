@@ -94,3 +94,5 @@ console.log(clothesDept[1][2]);
 //nest arrays in a nested array...... evian deying inside anothe evian
 //nesting the nested
 const sportsStore = [equipDept, clothesDept];
+console.log(sportsStore[0][0][1]);
+console.log(sportsStore[1][1][0]);
